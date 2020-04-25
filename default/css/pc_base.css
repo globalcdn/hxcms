@@ -14,7 +14,7 @@
 }
 
 .icon-coin {
-    background: url(/static/images/icon-coin.png) no-repeat left center;
+    /* background: url(/static/images/icon-coin.png) no-repeat left center; */
     background-size: contain;
     width: 15px;
     height: 15px;

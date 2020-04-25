@@ -89,7 +89,7 @@ img.normal-top-right-avatar{height: 25px;vertical-align: top;margin-top: 11px;ma
 .vip-privilege-list-content{font-size: 12px;color: #666666;letter-spacing: 0;line-height: 20px;}
 .vip-privilege-more{font-size: 12px;color: #666666;letter-spacing: 0;text-align: center;margin: 10px;}
 
-.vip-exchange-bg{background-image: url(/dm5/images/mobile/vip-exchange-bg.png);background-repeat: no-repeat;background-size: 100% 100%;padding-top:45px;}
+.vip-exchange-bg{background-image: url(../images/vip-exchange-bg.png);background-repeat: no-repeat;background-size: 100% 100%;padding-top:45px;}
 .vip-exchange{margin: 46px 10px;border-radius: 2px;background-color: #080F1B;padding: 0 14px;padding-bottom: 40px;}
 .vip-exchange-title{color: #fff;text-align: center;font-size: 30px;width: 250px;margin: 0 auto;border-bottom: 2px solid #FFFFFF;margin-bottom: 30px;}
 .vip-exchange-title span{position: relative;top: 20px;background-color: #080F1B;padding: 0 15px;}
@@ -175,8 +175,8 @@ img.normal-top-right-avatar{height: 25px;vertical-align: top;margin-top: 11px;ma
 .vip-main .dj-top-item.active .dj-top-item-bar-circle1{background-color: #DAB77C;}
 .vip-main .dj-top-item.active .dj-top-item-bar-circle2{background-color: #EFDCB3;}
 .vip-main .dj-sign{width: 80%;margin: 0 auto;margin-top: -5px;}
-.vip-main .dj-sign-value{background-size: cover;width: 33px;height: 20px;line-height: 20px;padding-top: 4px;background-image:url(/dm5/images/mobile/dj-sign-value.png);position: relative;margin-left: -24px;color: #3d3d3d;font-size: 12px;text-align: center;}
-.vip-main .dj-sign-value.gary{background-image:url(/dm5/images/mobile/dj-sign-value.png);}
+.vip-main .dj-sign-value{background-size: cover;width: 33px;height: 20px;line-height: 20px;padding-top: 4px;background-image:url(../images/dj-sign-value.png);position: relative;margin-left: -24px;color: #3d3d3d;font-size: 12px;text-align: center;}
+.vip-main .dj-sign-value.gary{background-image:url(../images/dj-sign-value.png);}
 
 .vip-main-bottom{margin-top: 16px;overflow: hidden;font-size: 13px;color: #FFFFFF;letter-spacing: 0;}
 .vip-main-bottom-left{width: 50%;text-align: center;float: left;}
@@ -226,12 +226,12 @@ img.normal-top-right-avatar{height: 25px;vertical-align: top;margin-top: 11px;ma
 .manga-list-title.index:after{content: '';width: 3px;height: 20px;background-color: #FD113A;border-radius: 1.5px;display: block;position: absolute;top: 24px;left: 10px;}
 .manga-list-title-more{font-size: 13px;color: #252525;letter-spacing: 0;font-weight: normal;float: right;padding-right: 12px;background-image: url(../images/manga-list-title-more.png);background-repeat: no-repeat;background-size: 7px;background-position: center right;padding-left: 10px;}
 .manga-list-title.index .manga-list-title-more{color: #666;}
-.manga-list-title-logo-1{padding-left: 36px;background-image: url(/dm5/images/mobile/index-title-logo-1.png);background-size: 16px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
-.manga-list-title-logo-2{padding-left: 36px;background-image: url(/dm5/images/mobile/index-title-logo-2.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
-.manga-list-title-logo-3{padding-left: 36px;background-image: url(/dm5/images/mobile/index-title-logo-3.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
-.manga-list-title-logo-4{padding-left: 40px;background-image: url(/dm5/images/mobile/index-title-logo-4.png);background-size: 23px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
-.manga-list-title-logo-5{padding-left: 36px;background-image: url(/dm5/images/mobile/index-title-logo-5.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
-.manga-list-title-logo-6{padding-left: 36px;background-image: url(/dm5/images/mobile/index-title-logo-6.png);background-size: 19px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-1{padding-left: 36px;background-image: url(../images/index-title-logo-1.png);background-size: 16px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-2{padding-left: 36px;background-image: url(../images/index-title-logo-2.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-3{padding-left: 36px;background-image: url(../images/index-title-logo-3.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-4{padding-left: 40px;background-image: url(../images/index-title-logo-4.png);background-size: 23px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-5{padding-left: 36px;background-image: url(../images/index-title-logo-5.png);background-size: 20px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
+.manga-list-title-logo-6{padding-left: 36px;background-image: url(../images/index-title-logo-6.png);background-size: 19px 20px;background-repeat: no-repeat;background-position: 12px 13px;}
 .manga-list-title-right{height: 25px;line-height: 25px;border: 1px solid #F4F4F4;float: right;font-size: 0;margin-top: 10px;}
 .manga-list-title-right-item{font-size: 12px;color: #666666;letter-spacing: 0;text-align: center;width: 50px;border-left: 1px solid #F4F4F4;display: inline-block;font-weight: normal;}
 .manga-list-title-right-item.active{color: #252525;background-color: #f8f8f8;}
@@ -462,7 +462,7 @@ img.normal-top-right-avatar{height: 25px;vertical-align: top;margin-top: 11px;ma
 .win-pay-btn.active{background: #FFF3F3;border: 1px solid #FD113A;}
 .win-pay-btn.red{background: #FD113A;border-radius: 2px;color: #fff;border: 1px solid #FD113A;}
 .win-pay-btn.gary{background: #999999;border: 1px solid #999999;color: #fff;}
-.win-pay-btn-logo{width: 26px;height: 23px;background-image: url(/dm5/images/mobile/win-pay-logo.png);background-size: 100% 100%;font-size: 10px;color: #FFFFFF;display: inline-block;position: absolute;right: 0;top: 0;line-height: 20px;}
+.win-pay-btn-logo{width: 26px;height: 23px;background-image: url(../images/win-pay-logo.png);background-size: 100% 100%;font-size: 10px;color: #FFFFFF;display: inline-block;position: absolute;right: 0;top: 0;line-height: 20px;}
 .win-pay-btn.vip{background-color: #DAB77C;border: 1px solid #DAB77C;}
 .win-pay-btn-vip{width: 24px;height: 22px;vertical-align: top;margin: 11px 10px;}
 .win-pay-btn-line-1{font-size: 15px;color: #252525;letter-spacing: 0;text-align: center;line-height: 33px;}

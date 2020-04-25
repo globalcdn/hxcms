@@ -8,9 +8,9 @@
     clear: both
 }
 
-@font-face {
+/* @font-face {
     font-family:"zymk";src:url("../fonts/pc_zymk.eot?t=1493265019999");src:url("../fonts/pc_zymk.eot?t=1493265019999#iefix") format("embedded-opentype"),url("../fonts/pc_zymk.woff?t=1493265019999") format("woff"),url("../fonts/pc_zymk.ttf?t=1493265019999") format("truetype"),url("../fonts/pc_zymk.svg?t=1493265019999#zymk") format("svg")
-}
+} */
 
 .ift,[class^="ift-"] {
     font-family: "zymk" !important;
