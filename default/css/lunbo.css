@@ -38,11 +38,11 @@
 }
 .shutter-btn li.prev{
   left:20px;
-  background:url(/static/images/shutter_prevbtn.png) no-repeat 0 -49px
+  background:url(../images/shutter_prevbtn.png) no-repeat 0 -49px
 }
 .shutter-btn li.next{
   right:20px;
-  background:url(/static/images/shutter_nextbtn.png) no-repeat 0 -49px
+  background:url(../images/shutter_nextbtn.png) no-repeat 0 -49px
 }
 .shutter-desc{
   position:absolute;
@@ -51,7 +51,7 @@
   bottom:0;
   width:100%;
   height:36px;
-  background:url(/static/images/shutter_shadow.png) repeat
+  background:url(../images/shutter_shadow.png) repeat
 }
 .shutter-desc p{
   padding-left:20px;
