@@ -4933,8 +4933,8 @@ body {
 .header-logo {
     margin-top: 16px;
     float: left;
-    width: 108px;
-    height: 32px
+    width: 143px;
+    /* height: 32px */
 }
 
 .header-title {
