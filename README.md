@@ -1,2 +1,3 @@
-# xhxcms
-xhxcms
+# hxcms
+
+static assets
